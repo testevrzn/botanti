@@ -1,19 +1,19 @@
 
 ### Install
 
-```bash
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
-> cd termux-whatsapp-bot
-> npm install
+```bas
+> git clone com/Naermux-whatsapp-bot
+> cd temux-watsapp-bot
+l
 > npm i imgbb-uploader
-> npm i got
+> npm i ot
 ```
 
 ### Starting Bot
 
 ```bash
-> npm start
-```
+> npm 
+
 
 ### Stopping Bot
 
