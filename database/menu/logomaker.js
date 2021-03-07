@@ -10,50 +10,50 @@ const logomaker = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
-┠≽ *${prefix}info* (error)
-┃ *Desc* : Show Bot Details
+┠≽ *${prefix}info* (erro)
+┃ *Desc* : Mostrar detalhes do bot
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
-┃ *Desc* : Show Blocked User
+┃ *Desc* : Mostrar usuário bloqueado
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
-┃ *Desc* : Show All Chat User
+┠≽ *${prefix}chatlist* (erro)
+┃ *Desc* : Mostrar todos os usuários de bate-papo
 ┠──────────────╼
 ┠≽ *${prefix}ping*
-┃ *Desc* : Show Connection Bot Speed
+┃ *Desc* : Mostrar velocidade do bot de conexão
 ┠──────────────╼
-┠≽ *${prefix}bugreport* <text>
-┃ *Desc* : Report Bug To Owner Bot
+┠≽ *${prefix}bugreport* <texto>
+┃ *Desc* : Reportar bug ao proprietário do bot
 ╿
 ┷┯ *〈 LOGO MAKER 〉*
    ╽
-   ┠≽ *${prefix}ninjalogo* <text|text>
-   ┃ *Desc* : Make Ninja Logo
+   ┠≽ *${prefix}ninjalogo* <texto|texto>
+   ┃ *Desc* : Criar Ninja Logo
    ┠──────────────╼
-   ┠≽ *${prefix}logowolf* <text|text>
-   ┃ *Desc* : Make Wolf Logo
+   ┠≽ *${prefix}logowolf* <texto|texto>
+   ┃ *Desc* : Criar Wolf Logo
    ┠──────────────╼
-   ┠≽ *${prefix}logowolf2* <text|text>
-   ┃ *Desc* : Make Wolf Logo2
+   ┠≽ *${prefix}logowolf2* <texto|texto>
+   ┃ *Desc* : Criar Wolf Logo2
    ┠──────────────╼
-   ┠≽ *${prefix}phlogo* <text|text>
-   ┃ *Desc* : Make PornHub Logo
+   ┠≽ *${prefix}phlogo* <texto|texto>
+   ┃ *Desc* : Criar PornHub Logo
    ┠──────────────╼
-   ┠≽ *${prefix}neonlogo* <text>
-   ┃ *Desc* : Make Neon Logo
+   ┠≽ *${prefix}neonlogo* <texto>
+   ┃ *Desc* : Criar Neon Logo
    ┠──────────────╼
-   ┠≽ *${prefix}neonlogo2* <text>
-   ┃ *Desc* : Make Neon Logo2
+   ┠≽ *${prefix}neonlogo2* <texto>
+   ┃ *Desc* : Criar Neon Logo2
    ┠──────────────╼
-   ┠≽ *${prefix}lionlogo* <text|text>
-   ┃ *Desc* : Make Lion Logo
+   ┠≽ *${prefix}lionlogo* <texto|texto>
+   ┃ *Desc* : Criar Lion Logo
    ┠──────────────╼
-   ┠≽ *${prefix}jokerlogo* <text>
-   ┃ *Desc* : Make Joker Logo
+   ┠≽ *${prefix}jokerlogo* <texto>
+   ┃ *Desc* : Criar Joker Logo
    ┠──────────────╼
-   ┠≽ *${prefix}pubglogo* <text|text>
-   ┃ *Desc* : Make PUBG Logo
+   ┠≽ *${prefix}pubglogo* <texto|texto>
+   ┃ *Desc* : Criar PUBG Logo
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Desenvolvedor © ${botName}`
 }
 exports.logomaker = logomaker
