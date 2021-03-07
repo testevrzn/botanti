@@ -10,47 +10,47 @@ const education = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
-┠≽ *${prefix}info* (error)
-┃ *Desc* : Show Bot Details
+┠≽ *${prefix}info* (erro)
+┃ *Desc* : Mostrar detalhes do bot
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
-┃ *Desc* : Show Blocked User
+┃ *Desc* : Mostrar usuário bloqueado
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
-┃ *Desc* : Show All Chat User
+┠≽ *${prefix}chatlist* (erro)
+┃ *Desc* : Mostrar todos os usuários de bate-papo
 ┠──────────────╼
 ┠≽ *${prefix}ping*
-┃ *Desc* : Show Connection Bot Speed
+┃ *Desc* : Mostrar velocidade do bot de conexão
 ┠──────────────╼
-┠≽ *${prefix}bugreport* <text>
-┃ *Desc* : Report Bug To Owner Bot
+┠≽ *${prefix}bugreport* <texto>
+┃ *Desc* : Reportar bug ao proprietário do bot
 ╿
-┷┯ *〈 EDUCATION 〉*
+┷┯ *〈 EDUCAÇÃO 〉*
    ╽
-   ┠≽ *${prefix}wiki* <query>
-   ┃ *Desc* : Search According to Wikipedia [indo]
+   ┠≽ *${prefix}wiki* <consulta>
+   ┃ *Desc* : Pesquisa de acordo com a Wikipedia [indo]
    ┠──────────────╼
-   ┠≽ *${prefix}wikien* <query>
-   ┃ *Desc* : Search According to Wikipedia [english]
+   ┠≽ *${prefix}wikien* <consulta>
+   ┃ *Desc* : Pesquisa de acordo com a Wikipedia [inglês]
    ┠──────────────╼
-   ┠≽ *${prefix}nulis* <text>
-   ┃ *Desc* : Write a Text on Book
+   ┠≽ *${prefix}nulis* <texto>
+   ┃ *Desc* : Escreva um texto no livro
    ┠──────────────╼
    ┠≽ *${prefix}quotes*
-   ┃ *Desc* : Send a Random Quotes
+   ┃ *Desc* : Envie uma cotação aleatória
    ┠──────────────╼
    ┠≽ *${prefix}quotes2*
-   ┃ *Desc* : Send a Random Quotes2
+   ┃ *Desc* : Envie uma cotação aleatória 2
    ┠──────────────╼
-   ┠≽ *${prefix}tafsirmimpi* <dream>
-   ┃ *Desc* : Send a Dream Interpretation
+   ┠≽ *${prefix}tafsirmimpi* <Sonhe>
+   ┃ *Desc* : Envie uma interpretação do sonho
    ┠──────────────╼
-   ┠≽ *${prefix}translate* <language_code>|<text>
-   ┃ *Desc* : Translating a word
+   ┠≽ *${prefix}translate* <língua_código>|<texto>
+   ┃ *Desc* : Traduzindo uma palavra
    ┠──────────────╼
-   ┠≽ *${prefix}artinama* <name>
-   ┃ *Desc* : Interpret Names
+   ┠≽ *${prefix}artinama* <nome>
+   ┃ *Desc* : Interpretar nomes
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Desenvolvedor © ${botName}`
 }
 exports.education = education
