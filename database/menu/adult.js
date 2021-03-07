@@ -10,14 +10,14 @@ const adult = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 SOBRE 〉*
 ╽
-┠≽ *${prefix}info* (error)
+┠≽ *${prefix}info* (erro)
 ┃ *Desc* : Mostrar Bot Detalhes
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
-┃ *Desc* : Mostrar Usuario Bloqueado
+┃ *Desc* : Mostrar usuário bloqueado
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
-┃ *Desc* : Mostrar Todos Os Usuarios De Batepapo
+┠≽ *${prefix}chatlist* (erro)
+┃ *Desc* : Mostrar todos os usuários do Bate Papo
 ┠──────────────╼
 ┠≽ *${prefix}ping*
 ┃ *Desc* : Mostrar Conexao Bot Speed
