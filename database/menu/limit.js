@@ -36,7 +36,7 @@ const limit = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}buylimit* <count>
    ┃ *Desc* : Limite Compra
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}
+   ╰╼≽ *Desenvolvedor © ${botName}
 --------------------------------
 Note: Voce pode comprar limites coletando dinheiro primeiro. Verifique seu dinheiro digitando comandos *${prefix}bal* , harga 1 limit = 1000 uang.
 Note2: Voce pode arrecadar dinheiro de uma maneira chat com amigos em um grupo ou voce pode subir level.`
