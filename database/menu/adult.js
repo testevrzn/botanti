@@ -31,10 +31,10 @@ const adult = (prefix, botName, ownerName) => {
    ┃ *Desc* : Envio Imagem Aleatoria Hentai
    ┠──────────────╼
    ┠≽ *${prefix}nsfwtrap*
-   ┃ *Desc* : Envio Aleatorio NSFW Trap Imagem (nsfw needed)
+   ┃ *Desc* : Envio Aleatorio NSFW Trap Imagem (nsfw precisava)
    ┠──────────────╼
    ┠≽ *${prefix}nsfwneko*
-   ┃ *Desc* : Envio Aleatorio NSFW Neko Imagem (nsfw needed)
+   ┃ *Desc* : Envio Aleatorio NSFW Neko Imagem (nsfw precisava)
    ╿ *${ownerName}*,
    ╰╼≽ *Developer © ${botName}`
 }
