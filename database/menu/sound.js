@@ -30,6 +30,6 @@ const sound = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}tts* <código de linguagem|texto>
    ┃ *Desc* : Texto para voz do Google
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Desenvolvedor © ${botName}`
 }
 exports.sound = sound
