@@ -10,41 +10,41 @@ const fun = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
-┠≽ *${prefix}info* (error)
+┠≽ *${prefix}info* (erro)
 ┃ *Desc* : Show Bot Details
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
-┃ *Desc* : Show Blocked User
+┃ *Desc* : Mostrar usuário bloqueado
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
-┃ *Desc* : Show All Chat User
+┠≽ *${prefix}chatlist* (erro)
+┃ *Desc* : Mostrar todos os usuários de bate-papo
 ┠──────────────╼
 ┠≽ *${prefix}ping*
-┃ *Desc* : Show Connection Bot Speed
+┃ *Desc* : Mostrar velocidade do bot de conexão
 ┠──────────────╼
-┠≽ *${prefix}bugreport* <text>
-┃ *Desc* : Report Bug To Owner Bot
+┠≽ *${prefix}bugreport* <texto>
+┃ *Desc* : Reportar bug ao proprietário do bot
 ╿
-┷┯ *〈 FUN 〉*
+┷┯ *〈 DIVERSÃO 〉*
    ╽
-   ┠≽ *${prefix}alay* <text>
-   ┃ *Desc* : Changing Words Into Alay
+   ┠≽ *${prefix}alay* <texto>
+   ┃ *Desc* : Mudando Palavras em Alay
    ┠──────────────╼
    ┠≽ *${prefix}bucin*
-   ┃ *Desc* : Send a Random Slave of Love
+   ┃ *Desc* : Envie um Escravo do Amor Aleatório
    ┠──────────────╼
    ┠≽ *${prefix}trust*
-   ┃ *Desc* : Send a Random Truth
+   ┃ *Desc* : Envie uma verdade aleatória
    ┠──────────────╼
    ┠≽ *${prefix}dare*
-   ┃ *Desc* : Send a Random Dare
+   ┃ *Desc* : Envie um desafio aleatório
    ┠──────────────╼
-   ┠≽ *${prefix}simi* <text>
-   ┃ *Desc* : Talk to Simi
+   ┠≽ *${prefix}simi* <texto>
+   ┃ *Desc* : Fale com Simi
    ┠──────────────╼
-   ┠≽ *${prefix}say* <text>
-   ┃ *Desc* : Saying:v
+   ┠≽ *${prefix}say* <texto>
+   ┃ *Desc* : Ditado:v
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Desenvolvedor © ${botName}`
 }
 exports.fun = fun
