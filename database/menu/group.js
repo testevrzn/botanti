@@ -10,19 +10,19 @@ const group = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
-┠≽ *${prefix}info* (error)
+┠≽ *${prefix}info* (erro)
 ┃ *Desc* : Mostrar Detalhes Do Bot
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
 ┃ *Desc* : Mostrar Usuario Bloqueado
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
+┠≽ *${prefix}chatlist* (erro)
 ┃ *Desc* : Mostrar Todos Os Usuarios De Batepapo
 ┠──────────────╼
 ┠≽ *${prefix}ping*
 ┃ *Desc* : Mostrar Velocidade Bot De Conexao
 ┠──────────────╼
-┠≽ *${prefix}bugreport* <text>
+┠≽ *${prefix}bugreport* <texto>
 ┃ *Desc* : Reportar Bug Ao Dono Do Bot
 ╿
 ┷┯ *〈 GRUPO 〉*
@@ -54,7 +54,7 @@ const group = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}tagall5*
    ┃ *Desc* : Mencione Todos Os Membros
    ┠──────────────╼
-   ┠≽ *${prefix}add* <821074417113>
+   ┠≽ *${prefix}add* <559885018147>
    ┃ *Desc* : Add Membros
    ┠──────────────╼
    ┠≽ *${prefix}kick* <@tag>
@@ -90,6 +90,6 @@ const group = (prefix, botName, ownerName) => {
    ┠≽ *${prefix}antilinkgroup* <1/0>
    ┃ *Desc* : Ativando / Desativando a Anti Link Destaque
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Desenvolvedor © ${botName}`
 }
 exports.group = group
