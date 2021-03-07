@@ -10,35 +10,35 @@ const downloader = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
-┠≽ *${prefix}info* (error)
-┃ *Desc* : Show Bot Details
+┠≽ *${prefix}info* (erro)
+┃ *Desc* : Mostrar detalhes do bot
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
-┃ *Desc* : Show Blocked User
+┃ *Desc* : Mostrar usuário bloqueado
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
-┃ *Desc* : Show All Chat User
+┠≽ *${prefix}chatlist* (erro)
+┃ *Desc* : Mostrar todos os usuários de bate-papo
 ┠──────────────╼
 ┠≽ *${prefix}ping*
-┃ *Desc* : Show Connection Bot Speed
+┃ *Desc* : Mostrar velocidade do bot de conexão
 ┠──────────────╼
-┠≽ *${prefix}bugreport* <text>
-┃ *Desc* : Report Bug To Owner Bot
+┠≽ *${prefix}bugreport* <texto>
+┃ *Desc* : Reportar bug ao proprietário do bot
 ╿
 ┷┯ *〈 DOWNLOADER 〉*
    ╽
-   ┠≽ *${prefix}pinterest* <query>
-   ┃ *Desc* : Download Image From Pinterest
+   ┠≽ *${prefix}pinterest* <consulta>
+   ┃ *Desc* : Baixar imagem do Pinterest
    ┠──────────────╼
    ┠≽ *${prefix}ytmp3* <linkyt>
-   ┃ *Desc* : Download Youtube Video to Mp3
+   ┃ *Desc* : Baixe vídeo do Youtube para mp3
    ┠──────────────╼
-   ┠≽ *${prefix}ytmp4* <linkyt>
-   ┃ *Desc* : Download Youtube Video
+   ┠≽ *${prefix}ytmp4* <linksyt>
+   ┃ *Desc* : Baixe vídeo do Youtube
    ┠──────────────╼
    ┠≽ *${prefix}tiktok* <linktiktok>
-   ┃ *Desc* : Download TikTok Video
+   ┃ *Desc* : Baixe vídeo do TikTok
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Desenvolvedor © ${botName}`
 }
 exports.downloader = downloader
