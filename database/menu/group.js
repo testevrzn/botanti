@@ -28,10 +28,10 @@ const group = (prefix, botName, ownerName) => {
 ┷┯ *〈 GRUPO 〉*
    ╽
    ┠≽ *${prefix}opengc*
-   ┃ *Desc* : Grupo De Abertura
+   ┃ *Desc* : Abrir Grupo
    ┠──────────────╼
    ┠≽ *${prefix}closegc*
-   ┃ *Desc* : Fechando Grupo
+   ┃ *Desc* : Fechar Grupo
    ┠──────────────╼
    ┠≽ *${prefix}promote* <@tag>
    ┃ *Desc* : Promova Pessoas ser Admins Grupo
