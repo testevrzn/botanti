@@ -10,44 +10,44 @@ const information = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
-┠≽ *${prefix}info* (error)
-┃ *Desc* : Show Bot Details
+┠≽ *${prefix}info* (erro)
+┃ *Desc* : Mostrar detalhes do bot
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
-┃ *Desc* : Show Blocked User
+┃ *Desc* : Mostrar usuário bloqueado
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
-┃ *Desc* : Show All Chat User
+┠≽ *${prefix}chatlist* (erro)
+┃ *Desc* : Mostrar todos os usuários de bate-papo
 ┠──────────────╼
 ┠≽ *${prefix}ping*
-┃ *Desc* : Show Connection Bot Speed
+┃ *Desc* : Mostrar velocidade do bot de conexão
 ┠──────────────╼
-┠≽ *${prefix}bugreport* <text>
-┃ *Desc* : Report Bug To Owner Bot
+┠≽ *${prefix}bugreport* <texto>
+┃ *Desc* : Reportar bug ao proprietário do bot
 ╿
 ┷┯ *〈 INFORMATION 〉*
    ╽
    ┠≽ *${prefix}bahasa*
-   ┃ *Desc* : Submit Language Code
+   ┃ *Desc* : Enviar código de idioma
    ┠──────────────╼
    ┠≽ *${prefix}kodenegara*
-   ┃ *Desc* : Send Country Code
+   ┃ *Desc* : Enviar código do país
    ┠──────────────╼
    ┠≽ *${prefix}kbbi* <question>
-   ┃ *Desc* : Asking KBBI
+   ┃ *Desc* : Perguntando ao KBBI
    ┠──────────────╼
    ┠≽ *${prefix}fakta*
-   ┃ *Desc* : Send a Random Fact
+   ┃ *Desc* : Envie um fato aleatório
    ┠──────────────╼
    ┠≽ *${prefix}infocuaca* <area>
-   ┃ *Desc* : Send Weather Information
+   ┃ *Desc* : Enviar informações meteorológicas
    ┠──────────────╼
    ┠≽ *${prefix}infogempa*
-   ┃ *Desc* : Sending Earthquake Information
+   ┃ *Desc* : Enviando informações sobre terremotos
    ┠──────────────╼
-   ┠≽ *${prefix}covidcountry* <country>
-   ┃ *Desc* : Sending Covid-19 Information
+   ┠≽ *${prefix}covidcountry* <país>
+   ┃ *Desc* : Envio de informações para Covid-19
    ╿ *${ownerName}*,
-   ╰╼≽ *Developer © ${botName}`
+   ╰╼≽ *Desenvolvedor © ${botName}`
 }
 exports.information = information
